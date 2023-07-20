@@ -221,3 +221,54 @@ figure {
      font-weight: 500;
      line-height: 20px;
 }
+
+/* play instantly section  */
+.play-instantly-section {
+     display: flex;
+     align-items: center;
+     background: #FFF;
+ 
+}
+
+.play-header {
+     text-align: center;
+     padding-left: 170px;
+     padding-right: 200px;
+
+
+
+
+
+}
+
+.clr-change {
+     background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+     background-clip: text;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+
+.play-header-description {
+     color: #0B0223;
+     font-size: 48px;
+     font-weight: 700;
+     line-height: 60px;
+
+}
+
+.play-description {
+     color: #534C64;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 25px;
+}
+
+.play-section-picture {
+     padding-right: 100px;
+     margin-top: 130px;
+}
+.play-section-picture2 {
+    position: relative;
+    top: -270px;
+    left: -150px;
+}
